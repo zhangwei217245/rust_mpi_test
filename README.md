@@ -2,7 +2,7 @@
 
 ```bash
 module load PrgEnv-gnu
-module gcc
+module load gcc
 module load openmpi/3.1.3
 module load llvm/10.0.0
 
